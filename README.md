@@ -491,7 +491,7 @@ src/
  │   │       └── config/
  │   │           └── GitHubProperties.java
  │   └── resources/
- │       └── application.yml
+ │       └── application.properties
  └── test/
      └── java/
 ```
